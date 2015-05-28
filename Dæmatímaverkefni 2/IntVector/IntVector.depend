@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1390428205 source:c:\users\guðjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 2\intvector\main.cpp
+	<iostream>
+	"IntVector.h"
+
+1390423767 c:\users\guðjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 2\intvector\intvector.h
+	<iostream>
+
+1390428100 source:c:\users\guðjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 2\intvector\intvector.cpp
+	<cmath>
+	"IntVector.h"
+

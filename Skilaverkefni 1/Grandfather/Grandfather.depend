@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1391553852 source:c:\users\guğjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 1\grandfather\main.cpp
+	<iostream>
+	"StringSet.h"
+
+1390612080 source:c:\users\guğjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 1\grandfather\stringnode.cpp
+	<iostream>
+	<string>
+	"StringNode.h"
+
+1390612080 c:\users\guğjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 1\grandfather\stringnode.h
+	<string>
+
+1390612080 c:\users\guğjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 1\grandfather\stringset.h
+	<iostream>
+	<string>
+	"StringNode.h"
+
+1391553062 source:c:\users\guğjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 1\grandfather\stringset.cpp
+	<iostream>
+	<string>
+	"StringSet.h"
+

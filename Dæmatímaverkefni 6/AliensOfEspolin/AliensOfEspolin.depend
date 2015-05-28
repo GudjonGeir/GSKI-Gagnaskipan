@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1392668884 source:c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 6\aliensofespolin\alienfamilytree.cpp
+	"AlienFamilyTree.h"
+
+1392665856 c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 6\aliensofespolin\alienfamilytree.h
+	"BinaryStringNode.h"
+	<iostream>
+
+1392415375 c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 6\aliensofespolin\binarystringnode.h
+	<string>
+
+1392415375 source:c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 6\aliensofespolin\binarystringnode.cpp
+	"BinaryStringNode.h"
+
+1392666263 source:c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 6\aliensofespolin\main.cpp
+	<iostream>
+	"AlienFamilyTree.h"
+	<cstdio>
+

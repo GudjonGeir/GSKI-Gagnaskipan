@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1391925613 source:c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 2\huffmantree\huffmannode.cpp
+	<cstddef>
+	"HuffmanNode.h"
+
+1391925613 c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 2\huffmantree\huffmannode.h
+	<string>
+
+1392833270 source:c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 2\huffmantree\main.cpp
+	<iostream>
+	<string>
+	<assert.h>
+	"HuffmanNode.h"
+	"HuffmanPriorityQueue.h"
+
+1391925613 c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 2\huffmantree\huffmanpriorityqueue.h
+	<queue>
+	"HuffmanNode.h"
+

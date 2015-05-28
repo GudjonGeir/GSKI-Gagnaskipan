@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1391891517 source:c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 5\intqueue\intnode.cpp
+	<iostream>
+	"IntNode.h"
+
+1391891517 c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 5\intqueue\intnode.h
+
+1392161878 source:c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 5\intqueue\intqueue.cpp
+	<iostream>
+	"IntQueue.h"
+
+1391901186 c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 5\intqueue\intqueue.h
+	<iostream>
+	"IntNode.h"
+
+1392161813 source:c:\users\guðjóngeir\google drive\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 5\intqueue\main.cpp
+	<iostream>
+	"IntQueue.h"
+

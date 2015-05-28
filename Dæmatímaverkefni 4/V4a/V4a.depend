@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1391316615 source:c:\users\guðjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 4\v4a\charstack.cpp
+	<iostream>
+	<cstdlib>
+	"CharStack.h"
+
+1391316615 c:\users\guðjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 4\v4a\charstack.h
+	<iostream>
+
+1391557541 source:c:\users\guðjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 4\v4a\main.cpp
+	<iostream>
+	<string>
+	"CharStack.h"
+

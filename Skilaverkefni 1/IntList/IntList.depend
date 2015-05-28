@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1391541268 source:c:\users\guğjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 1\intlist\intlist.cpp
+	<iostream>
+	"IntList.h"
+
+1390612191 c:\users\guğjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 1\intlist\intlist.h
+	<iostream>
+	"IntNode.h"
+
+1390612080 c:\users\guğjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 1\intlist\intnode.h
+
+1390612080 source:c:\users\guğjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 1\intlist\intnode.cpp
+	<iostream>
+	"IntNode.h"
+
+1391541919 source:c:\users\guğjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\skilaverkefni 1\intlist\main.cpp
+	<iostream>
+	"IntList.h"
+

@@ -1,0 +1,37 @@
+(bla
+	(ble
+		(bli
+			()
+			())
+		(blo
+			()
+			()))
+	(fleh
+		()
+		(flee
+			()
+			())))
+
+1000
+generation bla
+generation ble
+generation bli
+generation blo
+generation bo
+generation fleh
+generation flee
+in_family bla
+in_family ble
+in_family bli
+in_family blo
+in_family fleh
+in_family flee
+in_family fee
+in_family bi
+descendant bla ble
+descendant bla ble
+descendant bla bli
+descendant bla blo
+descendant fleh flee
+descendant flee fleh
+descendant ble flee

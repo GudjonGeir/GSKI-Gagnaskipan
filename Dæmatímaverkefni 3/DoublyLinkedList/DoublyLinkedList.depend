@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1390939195 source:c:\users\guğjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 3\doublylinkedlist\doublylinkedlist.cpp
+	<iostream>
+	"DoublyLinkedList.h"
+
+1390669505 c:\users\guğjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 3\doublylinkedlist\doublylinkedlist.h
+
+1390939207 source:c:\users\guğjóngeir\dropbox\hr\2. Önn (2014-1)\gagnaskipan\verkefni\dæmatímaverkefni 3\doublylinkedlist\main.cpp
+	<iostream>
+	"DoublyLinkedList.h"
+
